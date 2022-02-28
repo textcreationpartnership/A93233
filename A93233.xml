@@ -1,0 +1,237 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A shrill cry in the eares of Cavaliers, apostates, and presbyters, for the resolve of XIII queries touching the primitive state of this nation, since the Conquest: the late proceedings of the Army, the Covenant, and other weighty matters, tending to the publique peace of the nation. By a well-willer to peace and truth. February 5. 1648. Imprimatur Theodore Jennings.</title>
+            <author>Well-willer to peace and truth.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93233</idno>
+            <idno type="STC">Wing S3698</idno>
+            <idno type="STC">Thomason E541_10</idno>
+            <idno type="STC">ESTC R203571</idno>
+            <idno type="EEBO-CITATION">99863491</idno>
+            <idno type="PROQUEST">99863491</idno>
+            <idno type="VID">115694</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93233)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115694)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E541[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A shrill cry in the eares of Cavaliers, apostates, and presbyters, for the resolve of XIII queries touching the primitive state of this nation, since the Conquest: the late proceedings of the Army, the Covenant, and other weighty matters, tending to the publique peace of the nation. By a well-willer to peace and truth. February 5. 1648. Imprimatur Theodore Jennings.</title>
+                  <author>Well-willer to peace and truth.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Ibbitson, in Smithfield, neer the Queenes-head Tavern,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648 [i.e. 1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115694:1"/>
+            <pb facs="tcp:115694:1" rendition="simple:additions"/>
+            <p>A SHRILL CRY in the Eares of Cavaliers, Apoſtates, and Presbyters, for the Reſolve of XIII QUERIES Touching The Primitive ſtate of this Nation, ſince the Conqueſt: The late proceedings of the Army, the Covenant, and other weighty matters, tending to the <hi>publique Peace of the Nation.</hi>
+            </p>
+            <p>By a well-willer to Peace and Truth.</p>
+            <p>O <hi>England, England,</hi> that thou didſt know in this thy day, of bleſſed Viſitation, thoſe things that concerns thy Peace.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <opener>
+                           <dateline>
+                              <date>February 5. 1648.</date>
+                           </dateline>
+                        </opener>
+                        <p>Imprimatur</p>
+                        <closer>
+                           <signed>THEODORE JENNINGS.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>LONDON Printed by <hi>Robert Ibbitſon,</hi> in Smithfield, neer the Queenes-head Tavern, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:115694:2"/>
+            <pb n="1" facs="tcp:115694:2"/>
+            <head>A Shrill Cry in the Eares of Cavaliers, Apoſtates, and Presbyters, for the Re<g ref="char:EOLhyphen"/>ſolve of XIII Queries, touching the Primitive State, of this Nati<g ref="char:EOLhyphen"/>on, ſince the Conqueſt.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He various changes both of Governours and Government in this Kingdom is not unknowne to thoſe who have reade our Engliſh Chronicles, the laſt of which was by <hi>William</hi> Duke of <hi>Normandy,</hi> who though he pretended claime to the Crowne, yet found his Sword his beſt title, which yet was a Right not only uncertaine, but inferiour to thoſe immediately anoynted, or thoſe hereditary elected Kings, choſen and conſented too by the people, he thought it therefore wiſdom not long to Rule the Nation, by that where<g ref="char:EOLhyphen"/>with he got poſſeſſion, but rather to gain their conſent granting many immunities, and yeelding to ſuch laws as they ſhould propound for their quiet and peaceable Government, for the managing of which Agreement:
+<pb n="2" facs="tcp:115694:3"/>doubtleſſe there was by conſent a Repreſentative e<g ref="char:EOLhyphen"/>lected and intruſted, not only to conſult, but by a de<g ref="char:EOLhyphen"/>liberate Reſult, propoſe to the King what they con<g ref="char:EOLhyphen"/>ceived neceſſary to the well-being of the Nation, Ta<g ref="char:EOLhyphen"/>king ſuch ſecurity from the King by oath or other<g ref="char:EOLhyphen"/>wiſe, in the behalfe of himſelfe and Succeſſors, that he will grant and maintaina each particular agreed, and upon ſecurity ſo firſt given, he had power to bind the people by oath for ends expreſſed, to maintain the ho<g ref="char:EOLhyphen"/>nour and greatnes of him whom they had ſo intruſted: Yet was not this power ſo abſolute on the Kings part, but that proviſion was made by a mutuall conſent, that hee ſhould frequently call and conſult, with theſe Feoffees touching the State of the Kingdom; that with their adviſe, as they ſaw cauſe, old Lawes might be repealed, and new made: And this appeareth by the Coronation Oath, binding the King to what the people ſhall choſe. And that the Parliaments truſt was more abſolute is evident, in that they put by ſome ſucceeding in the ſame line, which they conceived un<g ref="char:EOLhyphen"/>fit for ſuch a truſt; and depoſed others though Crow<g ref="char:EOLhyphen"/>ned, that were found unfaithfull. This being then the primitive ſtate of this Kingdome, from or neere that time, the right of the Conqueſt, being diſſolved into the right of agreement, I ſhall propound a few Queeries, to be reſolved by any rationall man.</p>
+            <p n="1">
+               <label>I Query</label>
+               <lb/>
+WHether if a ſucceeding King, bound upon the Right of the Crown, ſwearing to maintain, and govern by the Laws; of which this is a part, that is to ſay, to call frequently his great Councell, by
+<pb n="3" facs="tcp:115694:3"/>whom he is to be adviſed, in the weighty affaires of the Kingdome, ſhall either not call, or if call them, uſe ſiniſter, and indirect wayes to corrupt them, or if not ſo; immediately diſſolve them, thereby rendring their meetings fruitleſſe, becauſe to them hee would not bee accountable for the truſt repoſed in him; Whether ſuch a King is not onely perjured, but hath juſtly forfeited his truſt to the Kingdome, and is wor<g ref="char:EOLhyphen"/>thy for it to be depoſed?</p>
+            <p n="2">
+               <label>II Query.</label>
+               <lb/>
+Whether, if during ſuch an intervaile, this King ſhall in purſuance of a Tyrannicall and Arbitrary po<g ref="char:EOLhyphen"/>wer, contrary to the known Law, ſend to apprehend the perſon, and ſeize upon the Eſtate of any one Sub<g ref="char:EOLhyphen"/>ject of this Land, if hee bee able to make his defence, and oppoſe that power; may he not? ſince in ſo do<g ref="char:EOLhyphen"/>ing, he defendeth not himſelfe onely, but the known Law of the Land? and whether, if this perſon, aſſiſt<g ref="char:EOLhyphen"/>ed by God in this Defence, ſhould conquer this Ty<g ref="char:EOLhyphen"/>rants power, and take him priſoner, were not ac<g ref="char:EOLhyphen"/>quitted both by God, and Man, if hee put him to Death?</p>
+            <p n="3">
+               <label>III Query.</label>
+               <lb/>
+Whither, much more then, if a King ingaged as aforeſaid ſhall for the ſetting up of his owne tyranni<g ref="char:EOLhyphen"/>call and arbitrary will? and in purſuance of the ſame, intangle himſelfe and Kingdome in intricate troubles, and by the adviſe of evill Councel alſo expoſed it to a forraign<note n="*" place="margin">That is to ſay, the Kingdome of Scotland, which oppoſed their natural King againſt his introducing of an Arbitrary Power both in Church and State, not only in their owne, but coming in an hoſtile manner againſt the King of England, and his evill Coutcell, pleading no other law, but that of Neceſſi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y.</note> Nation, ſhall at laſt be inforced to call a
+<pb n="4" facs="tcp:115694:4"/>Parliament, which upon their meeting, find the cauſe to be his contempt of the great Councell, and follow<g ref="char:EOLhyphen"/>ing thoſe that he had corrupted to carry on his intend<g ref="char:EOLhyphen"/>ded deſigne, they being yet ſo indulgent to him, as to excuſe his fault, deſiring onely to bring them to ju<g ref="char:EOLhyphen"/>ſtice, if then he ſhall ſo ill requite them, as not only to defend ſuch Delinquents, but ſet up his Stan<g ref="char:EOLhyphen"/>dard againſt the Parliament, murdering his beſt Sub<g ref="char:EOLhyphen"/>jects, compelling them in their owne defence to take up Armes, and ſhall in that defence get an abſolute Conqueſt over him, and make him their Priſoner, ſhall not they betray their truſt, if they make him not an example of juſtice for the ſame?</p>
+            <p n="4">
+               <label>IV. Query.</label>
+               <lb/>
+Whether, if a Parliament ſhall not onely take no<g ref="char:EOLhyphen"/>tice, but declare againſt this exorbitant power of ſuch a King, and after ſeven years war, expence of milli<g ref="char:EOLhyphen"/>ons of Treaſure, with the blood of thouſands of the people, he being their priſoner, ſhall turn ſo apoſtate to their firſt principles that the moſt of them, contrary to their Covenant, ſhall be ſo corruped; as to be in<g ref="char:EOLhyphen"/>duced to carry on their enemies intereſt, endea<g ref="char:EOLhyphen"/>vouring to make uſe of reſtoring his perſon, to carry on deſignes known to be deſtructive to publick ſafety, have not ſuch betrayed their truſt?</p>
+            <p n="5">
+               <label>V. Query.</label>
+               <lb/>
+Whether then, if their and the Kingdomes Gene<g ref="char:EOLhyphen"/>rall, inveſted with power, when they at firſt were rightly principled, to purſue the declared ends of publick ſafety, and ſhall (through the bleſſing of
+<pb n="5" facs="tcp:115694:4"/>God) ſubdue the open and known enemies thereof, ſhould not betray his truſt, if he do not, being infor<g ref="char:EOLhyphen"/>med, and having ſufficient matter, bring a charge a<g ref="char:EOLhyphen"/>gainſt the chiefe actors in thoſe deſignes, that they might anſwer the ſame, and that without the leaſt breach of priviledge?</p>
+            <p n="6">
+               <label>VI. Query.</label>
+               <lb/>
+Whether, if theſe parties ſo charged, ſhall be ſo far from clearing themſelves from the guilt thereof, that they ſitting within the Houſe, ſhall not onely with the help of the ſame Faction, ſecure themſelves with<g ref="char:EOLhyphen"/>in thoſe walls from a juſt ſcruteny and legall Triall, but ſhall proceed more inſolently therein to the coun<g ref="char:EOLhyphen"/>tenancing<note n="(a)" place="margin">Some of the Members ob<g ref="char:EOLhyphen"/>ſerved to give thoſe Mutiners publick thanks.</note> of Tumults againſt thoſe that have op<g ref="char:EOLhyphen"/>poſed them in the ſame, by which the Speaker, with the Members, were violently forced to unvote what they had before reſolved; ſome of them being like<g ref="char:EOLhyphen"/>wiſe threatned to be murdered: whereupon the Spea<g ref="char:EOLhyphen"/>ker and many more, were forced to flye to the Army for refuge, whilſt they in the mean time were moul<g ref="char:EOLhyphen"/>ding their Faction into a<note n="(b)" place="margin">Which doubtleſſe would have been acknowled<g ref="char:EOLhyphen"/>ged ſo, by thoſe perſons that oppoſe this preſent ſupreme Power, which is conceived upon better grounds undiſputable</note> Parliament, chuſing a new Speaker, that ſo in the abſence of thoſe who ſtood in their way, they might carry on their deſtru<g ref="char:EOLhyphen"/>ctive Councells by a Parliamentary Authority. Now whether the Generall ſhould not betray his truſt, if he did not reſtore theſe Members, although with the hazard of much blood-ſhed, theſe men having to their power engaged both City and Country to oppoſe him in the ſame? And whether it was not a great pro<g ref="char:EOLhyphen"/>vocation
+<pb n="6" facs="tcp:115694:5"/>to the Souldiery of the Army, who were im<g ref="char:EOLhyphen"/>barked and ingaged in the ſame publick intereſt, and have ventured their lives in the Conqueſt of the com<g ref="char:EOLhyphen"/>mon Enemy, to ſeize upon the perſon of the King, to prevent the carrying on of corrupt intereſt by theſe home-bred Enemies?</p>
+            <p n="7">
+               <label>VII. Query.</label>
+               <lb/>
+Whether, when thoſe Members were reſtored, the other charged, fled; and the Houſe in a probability to be ſettled to purſue their former declared ingage<g ref="char:EOLhyphen"/>ments, which they did for a while, untill the ſame deſigne which was againe ſecretly hatched, began to appear, being cunningly acted by the ſame party within, and others at diſtance? New Members are called in from thoſe places where the King had the greateſt influence, fit for the over-ballancing thoſe who ſtood for the Kingdomes Intereſt? The Scots ſecretly invited, the City and Country moved to preſent turbulent Petitions, that the eleven Members might be recalled, the <hi>Militia</hi> ſettled in the hands of thoſe of the ſame Faction: The Scots anſwered in their unreaſonable demands, preſented in their Commiſſio<g ref="char:EOLhyphen"/>ners Papers, the Army to be disbanded, the onely rub in their way, and ſuch Propoſitions to be ſent to the King, as might beſt promote their deſignes: Upon which, the Houſe before framed for the purpoſe; the eleven Members were recalled and reſtored, without any inquiry into thoſe crimes charged againſt them, who no ſooner come, but the Kingdome is ſuddenly in a new flame.<note n="(c)" place="margin">Some Members pub<g ref="char:EOLhyphen"/>lickly acting in the ſame.</note> Inſurrections in many parts of this land, the Scots upon our borders with a potent Army, whilſt the City was endeavouring with the Parlia<g ref="char:EOLhyphen"/>ment,
+<pb n="7" facs="tcp:115694:5"/>to recall the Generalls Commiſſion, for purſu<g ref="char:EOLhyphen"/>ing the Rebels in <hi>Kent,</hi> and other places; themſelves refuſing to give any aſſiſtance either of men or mony, though the Enemy were at the very walls of the City, and in that very nick of time, violently preſsing for a perſonall Treaty, which was not onely granted, but covertly carried on<note n="(d)" place="margin">Who durſt not publickly own theſe Re<g ref="char:EOLhyphen"/>bellions.</note> by thoſe Members in the Houſe in the purſuance of the ſame deſigne, whilſt many of the faithfull Members were employed abroad to quench that fire which was almoſt in every place kindled: I demand then, God having by the Gene<g ref="char:EOLhyphen"/>rall, and thoſe under his Command, ſo miraculouſly delivered this Nation againe from a ſecond War, whether they were not ingaged by all the bonds, both of Nature, Religion, and right reaſon, upon the cogni<g ref="char:EOLhyphen"/>zance of ſome of theſe Members, and the apparent de<g ref="char:EOLhyphen"/>fection of others, appearing by their Votes, to ſeclude ſuch from the great Councell, acknowledging them only fit to be confided in (though the leſſer number) who have continued faithfull, untill orderly proviſion ſhall be made by them, for a free and unbyaſſed electi<g ref="char:EOLhyphen"/>on of new members?</p>
+            <p n="8">
+               <label>VIII. Query.</label>
+               <lb/>
+Whether this then being the Supreme Power, the people of <hi>England</hi> are not to reſt quiet in their deter<g ref="char:EOLhyphen"/>minations, and are not bound to maintain them in the ſame?</p>
+            <p n="9">IX. <hi>Query.</hi>
+            </p>
+            <p>Whether it is not the undoubted priviledge of this Supreme Power, upon the obſervation of inter<g ref="char:EOLhyphen"/>changeable occurrences, as they ſhall ſee cauſe, alter their Reſolutions, ſince their power is ſuch as to re<g ref="char:EOLhyphen"/>peale Laws, and make new; the Kings refuſing to
+<pb n="8" facs="tcp:115694:6"/>conſent, or by treaſonable practices make himſelf un<g ref="char:EOLhyphen"/>capable of truſt, it being in their power, upon good grounds ſo to declare?</p>
+            <p n="10">
+               <label>X. Query.</label>
+               <lb/>
+If the King have not power to deny what the people ſhall chuſe by their Repreſentative, why then ſhould the Lords claime priviledge above him, ſince the chiefe burden and charge lyeth upon the Commons of <hi>England?</hi>
+            </p>
+            <p>
+               <label>The Eleventh Query.</label>
+               <lb/>
+Whether it is at all to be doubted, that any altera<g ref="char:EOLhyphen"/>tion of Government by them ſhall not much more tend to the good of the Commonalty, rather then that by the King, ſince theſe Laws made, muſt be equal<g ref="char:EOLhyphen"/>ly binding to themſelves.</p>
+            <p>
+               <label>The Twelfth Query.</label>
+               <lb/>
+Whether it is poſſible as the Land is now divided, thoſe Laws agreed upon, though never ſo good, ſhould pleaſe all intereſts? and whether the impo<g ref="char:EOLhyphen"/>ſing of juſt Laws impartially, without reſpect of per<g ref="char:EOLhyphen"/>ſons, is not approveable to God, and all good men?</p>
+            <p>
+               <label>The Thirteenth Query.</label>
+               <lb/>
+Whether it ſtand with the Majeſty of this ſupream Court and Peace of the Kingdome, to ſuffer their au<g ref="char:EOLhyphen"/>thority or any power under them to be contemned, and the people ſtirred up to Rebellion, becauſe ju<g ref="char:EOLhyphen"/>ſtice according to the Covenant is done upon the King<note n="h" place="margin">Who Machi<g ref="char:EOLhyphen"/>vilian-like fol<g ref="char:EOLhyphen"/>lowing the Example of <hi>Strafford</hi> and <hi>Canterburie</hi> by his pretended Innocencie, and reſolute dying, hath endeavoured to act a greater revenge by ſowing the ſeeds of Diſcord amongſt the Igno<g ref="char:EOLhyphen"/>rant people, then ever he did in all his life.</note>, and other Delinquents although it ſhould be promoted by them, who by their pretended holy fun<g ref="char:EOLhyphen"/>ction,
+<pb n="9" facs="tcp:115694:6"/>and perverted Scriptures, may thinke to ſcape puniſhment for the ſame.</p>
+            <p>Theſe Queries I leave to be reſolved by any impar<g ref="char:EOLhyphen"/>tiall man, not doubting of any but thoſe who are in a ſpirit of ſlumber, and will neither hear, ſee, nor under<g ref="char:EOLhyphen"/>ſtand, &amp; they are King, Cavalier, Apoſtate Parliamen<g ref="char:EOLhyphen"/>tarians, and the malicious waſpiſh Presbyter, who en<g ref="char:EOLhyphen"/>deavour to ſet the whole Kingdome on fire, becauſe a brat of their own begetting will not be received for a child of Truth, ſuch as by their falſe gloſſes, per<g ref="char:EOLhyphen"/>vert the very Letter, together with the end of that which they call the holy Covenant, breaking every part of it themſelves, and yet audaciouſly charging it upon others: For is not our ingagement to the King conditionall, upon keeping the Laws, and other things therein expreſſed, upon breach of which, he proving a Delinquent, as indeed hee did the chief? Are we not bound by the ſame Covenant to bring him with others, to condigne puniſhment? and for that part that is for the extirpation of Popery, Prela<g ref="char:EOLhyphen"/>cy, Hereſie and Schiſme, I know none more guilty of breach in this particular then themſelves; for is not this Poperie to compell men in matters of Faith, implicitely to beleeve and obey what they impoſe? and this Prelacie to exerciſe dominion, and reign as Kings over their faithfull Brethren in Chriſt? And hath not theſe been formerly acknowledg<g ref="char:EOLhyphen"/>ed by themſelves Hereticall? Beſides, is not this Hereſie to tie the Prieſthood of <hi>Melchiſe<g ref="char:EOLhyphen"/>dech</hi> to any learned Tribe whatſoever, ſince it was one main end of Chriſts Aſcenſion to give gifts ac<g ref="char:EOLhyphen"/>cording to his meaſure without reſpect of perſons?
+<pb n="10" facs="tcp:115694:7"/>and whether it be not blaſphemous to the holy Spi<g ref="char:EOLhyphen"/>rit to confine his unction and illumination of the Saints in the ſaving myſteries of the Goſpel, more to the learned then others, as if ſuch gifts were to bee bought with ſuch monie; which pretended holy Si<g ref="char:EOLhyphen"/>monie, doubtleſſe was the cauſe why ſo many of them had no part nor ſhare in this matter, yet am I no enemy to learning, neither allow I any pretended Illumination, that agreeth not with Scripture, and the Anallogie of true Chriſtian Faith.</p>
+            <p>And is not this Schiſme in the Church, to endea<g ref="char:EOLhyphen"/>vour to ſeparate thoſe that hold the head, and other fundamentall truths, though they agree not in thoſe that are of doubtfull diſputation, crying out and pe<g ref="char:EOLhyphen"/>titioning againſt them as men not fit to be truſted in a civill Common-wealth, yea and for diſſenting but from their Presbytery if they follow the practice of <hi>Scotland,</hi> as doubtleſſe they would, for ſuch a diſſent; their Families ſhall be ruined and left in a worſe condition then a Heathen and a Publican.</p>
+            <p>And is not this Schiſme alſo in the State, to alie<g ref="char:EOLhyphen"/>nate the Peoples hearts from their Superiours, and one from another, ſtirring up their brethren in <hi>Scot<g ref="char:EOLhyphen"/>land</hi> in unity with us to invade their own native Countrie.</p>
+            <p>Is this alſo to keep the Covenant, out of their place or way allowable by God or man, to force the three Kingdomes into a Uniformity of Doctrine and Diſcipline, as if God were delighted in a conſtrain<g ref="char:EOLhyphen"/>ed obedience,<note place="margin">And other He<g ref="char:EOLhyphen"/>reſies which for brevity ſake are not here re<g ref="char:EOLhyphen"/>cited.</note> or the Kingdomes thereby being free from inteſtine Rebellions? or can this government, found guilty of ſuch abominations be a Government neereſt to the word of God, or the Kingdome of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi>
+               <pb n="11" facs="tcp:115694:7"/>the beſt Reformed Church, or doth the Cove<g ref="char:EOLhyphen"/>nant expreſſe conformity to a Nationall Church, or the Word of God acknowledge any other, ſince that of the Jewes, but that one viſible Catholike Church which is in all Nations diſperſed into Congregations and Families, called (by <hi>Peter</hi>) <hi>A holy nation, a royall Prieſthood, a peculiar people,</hi> That Congregation or family then whereſoever it be, that in matter, form, doctrine, or diſcipline, ſhall conform to the Primi<g ref="char:EOLhyphen"/>tive Inſtitution, that muſt needs bee the pureſt Church, which we are bound by the Covenant to hold forth in theſe Kingdoms, and that is conceived to be this: When at the firſt by the preaching the ſincere word of the Goſpel, ſo many as heard it that were convinced of their loſt eſtate, by reaſon of ſin, were incited therby publiquely to profeſſe repentance from dead works, and faith towards God, through the Lord Jeſus, deſiring thereupon ro be baptized into the body of Chriſts viſible Church, and under his Govern<g ref="char:EOLhyphen"/>ment to obey, both in Doctrine and Diſcipline; what they ſhall clearly bee perſwaded to bee his Will, and for that end frequently meet in their ſeverall Aſſem<g ref="char:EOLhyphen"/>blies, and there orderly and decently exerciſe each o<g ref="char:EOLhyphen"/>thers gifts, for the edification one of another, in their moſt holy Faith, that ſo upon very good experience had of ſuch gifts, they might out of themſelves, and for themſelves ſucceſſively chooſe, as they ſtood in need, Paſtours, and other Officers, as they conceived neceſſary to the well-being and governing thoſe who had voluntarily ſubmitted themſelves thereunto. So that then doubtleſſe this conſtitution would have con<g ref="char:EOLhyphen"/>tinued as a pattern to all ſucceeding Congregations,
+<pb n="12" facs="tcp:115694:8"/>thoſe extraordinary<note n="*" place="margin">And th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ugh this Government by reaſon of dark<g ref="char:EOLhyphen"/>neſſe is not received in the Nations, yet I doubt not but the time will come that the Kings and Rulers of the Gentiles ſhal<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> being their glory to it.</note> Meſſengers, onely excepted, that by their Miracles ſhewed their authority from God, to lay this firſt foundation, and preſcribe the forme for this ſpirituall building.</p>
+            <p>But Antichriſt hath darkened this primitive luſter, confounding and razeing up the foundations thereof, ſetting up inſtead thereof his <hi>Babiloniſh</hi> H<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erarchy, and wordly glory, and now the Presbyters, ſonnes to the ſame father, and egges of the ſame Cockatrice, fol<g ref="char:EOLhyphen"/>lowing his ſteps, perſecute thoſe as hereticall, who indeavour to build againe this Tabernacle of <hi>David,</hi> that is thus ruinated, which for ſo doing, they ſhall ere long bee to Chriſt reſponſable, as Rebells to that his peculiar intereſt.</p>
+            <p>And as for the Nationall or worldly Kingdome, in<g ref="char:EOLhyphen"/>cluded alſo in the Covenant, we therein ingaging to preſerve the peace thereof, it is a Kingdome ſo di<g ref="char:EOLhyphen"/>ſtinct from the former, that it differeth both in mat<g ref="char:EOLhyphen"/>ter, form, laws, and diſciplin<note n="*" place="margin">So then that which God hath joyned ought not to bee ſeperated, nor that ſeperated that ought to bee joyned or mixed, which hath been the cauſe of all Antichriſtian conſuſion, which both conſidered de<g ref="char:EOLhyphen"/>ſtinctly may reſide together in one Nation, each be<g ref="char:EOLhyphen"/>ing helpefull to the other</note> although both under one &amp; the ſame ſupream King, Chriſt Ieſus, who as a mighty Monarch ruleth over all Nations, by one mu<g ref="char:EOLhyphen"/>nicipall law, which is that called Morrall; the firſt and ſecond Table thereof, requiring only ſuch a wor<g ref="char:EOLhyphen"/>ſhip, and obedience, both to God and man, that was fix<g ref="char:EOLhyphen"/>ed in, or terminated on the things of nature, that is to ſay. Firſt to acknowledge God, Creatour, and Preſerver of the World; that no Image be made of him, that his name is holy, the time appointed for his worſhip ſacred. And then ſecondly, that all Superi<g ref="char:EOLhyphen"/>ours
+<pb n="13" facs="tcp:115694:8"/>
+               <note n="*" place="margin">Which are variouſly ſtiled, and ſet over the peo<g ref="char:EOLhyphen"/>ple according to the cuſtomes of Nations, or the in<g ref="char:EOLhyphen"/>terchangea<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le occurrences of divine providence,</note> under him, in the ma<g ref="char:EOLhyphen"/>king or execution of good lawes over Nations, Cities, or Families, are to bee re<g ref="char:EOLhyphen"/>verenced, and obeyed, and that the preſervation of each mans propriety in the things of this life; expreſ<g ref="char:EOLhyphen"/>ſed in the following branches of the ſame Tables, is the ſupream end of all Civill Government. Thoſe Magi<g ref="char:EOLhyphen"/>ſtrates then, ſuppoſe Chriſtians, that propound to them<g ref="char:EOLhyphen"/>ſelves this end, and purſue thoſe things in the Law expreſſed, puniſhing all thoſe that tranſgreſſe from the plain letter thereof, keeping alſo within their bounds not intrenching upon the Prerogative of God, are good Magiſtrates: And thoſe that do otherwiſe, ſhall be unto God accountable; yea, and to the Magiſtrate if there be any other more ſupream to whom they may appeale, and if not, the people with their aſſiſtance may indeavour to compell the ſame,<note n="*" place="margin">Scotland b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing a preſident in their firſt comming into England to oppoſe th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> King &amp; his evil councel, the ſame people alſo oppoſing their owne laſt com<g ref="char:EOLhyphen"/>ming in though it were by Parliamentary authority.</note> and thoſe inſe<g ref="char:EOLhyphen"/>riours, ſuppoſe Chriſtians, yea, officers in the Church, that obey not ſuch Magi<g ref="char:EOLhyphen"/>ſtrates, but intrench up<g ref="char:EOLhyphen"/>on their power in civill things, do not preſerve the u<g ref="char:EOLhyphen"/>nity and peace of the Kingdome; and in ſo doing they are not onely reſponſable to ſuch Magiſtrates, whoſe Authority they diſpiſe, but to God alſo.</p>
+            <p>Theſe things ſeriouſly conſidered, it will evidently appear whoſe counſells and practices in theſe times of difference are faithfull to their Covenant, and who are the breakers thereof. O thou Presbyterian, or other, thou that boaſteſt of the Covenant, by breaking of the Covenant, diſhonoreſt thou God? and thou that ſayeſt another ſhould not ſteal, committeſt thou ſacri<g ref="char:EOLhyphen"/>ledge?
+<pb n="14" facs="tcp:115694:9"/>and thou that judgeſt another, and doeſt thy ſelf worſe things, thinkeſt thou to eſcape the judge<g ref="char:EOLhyphen"/>ment of God? Repent therefore, and change thy mind from ſuch deſtructive practices, and unite againſt the common Enemy, leſt that Scripture be verified of you that is ſpoken by the Apoſtle to the rebellious Scribes and Phariſees, <hi>Behold ye deſpiſers, and wonder, and va<g ref="char:EOLhyphen"/>niſh away, for I worke a worke in your dayes that you will not beleeve, although it ſhall be plainly told you.</hi> And that other Scripture, <hi>When thy hand is lifted up they will not ſee, but they ſhall ſee and be confounded, becauſe of their envy to thy people:</hi> Then ſhall the righteous re<g ref="char:EOLhyphen"/>joyce, and be exalted in Chriſt their King, which hath taken to himſelf his great power, and will reigne<g ref="char:punc">▪</g> maugre the malice of all oppoſers, that hath delivered his people in this Nation by his out-ſtretched Arme, not onely from Egyptian darkneſſe, but from ſore bondage, deſtroying hard hearted <hi>Pharaoh</hi> and all his hoſt as it were in the midſt of the Sea: And he that hath delivered us, will alſo yet doe it; and although the Enemy ſhall yet be gathered together againſt us, like a flood, yet the Spirit of the Lord ſhall drive them away; let us not therefore only ſing the Song of <hi>Moſes,</hi> our deliverance agreeing to that of Egypt, but of the Lambe (who alone is the Deliverer of his Church in theſe Apoſtate times) ſaying, <hi>Thou onely art worthy to receive honour, and glory, dominion, and power, for thou haſt redeemed us out of all nations, kindreds, and tongues, and haſt made us Kings, and Prieſts unto God.</hi> Who doubtleſſe according to his promiſe will once more, not onely ſhake the earth, but the heavens alſo, that thoſe things that can never be ſhaken, may remaine to his people.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
